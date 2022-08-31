@@ -5,4 +5,5 @@
  </br>
  Deployed link: https://whitelist-dapp-rho-cyan.vercel.app/
  
-![Screenshot (12)](https://user-images.githubusercontent.com/75473780/187697541-a6ba7492-66d1-4e4b-b02e-bc1f164abf59.png)
+
+![Screenshot (13)](https://user-images.githubusercontent.com/75473780/187802149-8af91811-66e3-4df4-a54b-31a954707e83.png)
